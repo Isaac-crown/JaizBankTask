@@ -1,0 +1,17 @@
+C:\Users\HP\Source\Repos\JaizBankTask\JaizBank\JaizBank.DataAccess\bin\Debug\net6.0\JaizBank.DataAccess.deps.json
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.DataAccess\bin\Debug\net6.0\JaizBank.DataAccess.dll
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.DataAccess\bin\Debug\net6.0\JaizBank.DataAccess.pdb
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.DataAccess\bin\Debug\net6.0\JaizBank.Data.dll
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.DataAccess\bin\Debug\net6.0\JaizBank.Entities.dll
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.DataAccess\bin\Debug\net6.0\JaizBank.Data.pdb
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.DataAccess\bin\Debug\net6.0\JaizBank.Entities.pdb
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.DataAccess\obj\Debug\net6.0\JaizBank.DataAccess.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.DataAccess\obj\Debug\net6.0\JaizBank.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.DataAccess\obj\Debug\net6.0\JaizBank.DataAccess.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.DataAccess\obj\Debug\net6.0\JaizBank.DataAccess.AssemblyInfo.cs
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.DataAccess\obj\Debug\net6.0\JaizBank.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\JaizBankTask\JaizBank\JaizBank.DataAccess\obj\Debug\net6.0\JaizBank.DataAccess.csproj.CopyComplete
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.DataAccess\obj\Debug\net6.0\JaizBank.DataAccess.dll
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.DataAccess\obj\Debug\net6.0\refint\JaizBank.DataAccess.dll
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.DataAccess\obj\Debug\net6.0\JaizBank.DataAccess.pdb
+C:\Users\HP\Source\Repos\JaizBankTask\JaizBank\JaizBank.DataAccess\obj\Debug\net6.0\ref\JaizBank.DataAccess.dll

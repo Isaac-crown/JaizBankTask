@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.DTOs\bin\Debug\net6.0\JaizBank.DTOs.deps.json
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.DTOs\bin\Debug\net6.0\JaizBank.DTOs.dll
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.DTOs\bin\Debug\net6.0\JaizBank.DTOs.pdb
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.DTOs\obj\Debug\net6.0\JaizBank.DTOs.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.DTOs\obj\Debug\net6.0\JaizBank.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.DTOs\obj\Debug\net6.0\JaizBank.DTOs.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.DTOs\obj\Debug\net6.0\JaizBank.DTOs.AssemblyInfo.cs
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.DTOs\obj\Debug\net6.0\JaizBank.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.DTOs\obj\Debug\net6.0\JaizBank.DTOs.dll
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.DTOs\obj\Debug\net6.0\refint\JaizBank.DTOs.dll
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.DTOs\obj\Debug\net6.0\JaizBank.DTOs.pdb
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.DTOs\obj\Debug\net6.0\ref\JaizBank.DTOs.dll

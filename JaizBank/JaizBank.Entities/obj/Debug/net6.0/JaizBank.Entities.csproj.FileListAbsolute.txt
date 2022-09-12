@@ -1,0 +1,12 @@
+C:\Users\HP\Source\Repos\JaizBankTask\JaizBank\JaizBank.Entities\bin\Debug\net6.0\JaizBank.Entities.deps.json
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Entities\bin\Debug\net6.0\JaizBank.Entities.dll
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Entities\bin\Debug\net6.0\JaizBank.Entities.pdb
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Entities\obj\Debug\net6.0\JaizBank.Entities.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Entities\obj\Debug\net6.0\JaizBank.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Entities\obj\Debug\net6.0\JaizBank.Entities.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Entities\obj\Debug\net6.0\JaizBank.Entities.AssemblyInfo.cs
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Entities\obj\Debug\net6.0\JaizBank.Entities.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Entities\obj\Debug\net6.0\JaizBank.Entities.dll
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Entities\obj\Debug\net6.0\refint\JaizBank.Entities.dll
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Entities\obj\Debug\net6.0\JaizBank.Entities.pdb
+C:\Users\HP\Source\Repos\JaizBankTask\JaizBank\JaizBank.Entities\obj\Debug\net6.0\ref\JaizBank.Entities.dll
