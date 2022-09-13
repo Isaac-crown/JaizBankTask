@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="wwwroot\.vscode\settings.json" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.8">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
@@ -18,7 +22,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\JaizBank.DataAccesss\JaizBank.DataAccesss.csproj" />
     <ProjectReference Include="..\JaizBank.Data\JaizBank.Data.csproj" />
+    <ProjectReference Include="..\JaizBank.DTOs\JaizBank.DTOs.csproj" />
   </ItemGroup>
 
 </Project>

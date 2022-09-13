@@ -1,10 +1,15 @@
 using JaizBank.Data.Data;
+using JaizBank.DataAccesss.Implementations.Interface;
+using JaizBank.DataAccesss.Implementations.Repository;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContextPool<TransactionsContext>(options => 
 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.AddScoped<ITransactionRepository, TransactionRepository>();
+
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

@@ -650,6 +650,29 @@
           "bin/placeholder/JaizBank.Data.dll": {}
         }
       },
+      "JaizBank.DataAccesss/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "JaizBank.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/JaizBank.DataAccesss.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/JaizBank.DataAccesss.dll": {}
+        }
+      },
+      "JaizBank.DTOs/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/JaizBank.DTOs.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/JaizBank.DTOs.dll": {}
+        }
+      },
       "JaizBank.Entities/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -1886,6 +1909,16 @@
       "path": "../JaizBank.Data/JaizBank.Data.csproj",
       "msbuildProject": "../JaizBank.Data/JaizBank.Data.csproj"
     },
+    "JaizBank.DataAccesss/1.0.0": {
+      "type": "project",
+      "path": "../JaizBank.DataAccesss/JaizBank.DataAccesss.csproj",
+      "msbuildProject": "../JaizBank.DataAccesss/JaizBank.DataAccesss.csproj"
+    },
+    "JaizBank.DTOs/1.0.0": {
+      "type": "project",
+      "path": "../JaizBank.DTOs/JaizBank.DTOs.csproj",
+      "msbuildProject": "../JaizBank.DTOs/JaizBank.DTOs.csproj"
+    },
     "JaizBank.Entities/1.0.0": {
       "type": "project",
       "path": "../JaizBank.Entities/JaizBank.Entities.csproj",
@@ -1894,7 +1927,9 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "JaizBank.DTOs >= 1.0.0",
       "JaizBank.Data >= 1.0.0",
+      "JaizBank.DataAccesss >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.8",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.8"
     ]
@@ -1931,8 +1966,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\HP\\source\\repos\\JaizBankTask\\JaizBank\\JaizBank.DataAccesss\\JaizBank.DataAccesss.csproj": {
+              "projectPath": "C:\\Users\\HP\\source\\repos\\JaizBankTask\\JaizBank\\JaizBank.DataAccesss\\JaizBank.DataAccesss.csproj"
+            },
             "C:\\Users\\HP\\source\\repos\\JaizBankTask\\JaizBank\\JaizBank.Data\\JaizBank.Data.csproj": {
               "projectPath": "C:\\Users\\HP\\source\\repos\\JaizBankTask\\JaizBank\\JaizBank.Data\\JaizBank.Data.csproj"
+            },
+            "C:\\Users\\HP\\source\\repos\\JaizBankTask\\JaizBank\\JaizBank.DTOs\\JaizBank.DTOs.csproj": {
+              "projectPath": "C:\\Users\\HP\\source\\repos\\JaizBankTask\\JaizBank\\JaizBank.DTOs\\JaizBank.DTOs.csproj"
             }
           }
         }

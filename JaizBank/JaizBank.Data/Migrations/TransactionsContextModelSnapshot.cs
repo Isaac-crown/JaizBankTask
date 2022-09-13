@@ -36,11 +36,11 @@ namespace JaizBank.Data.Migrations
                     b.Property<string>("Accelerex")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<decimal>("Amount")
-                        .HasColumnType("decimal(18,2)");
-
-                    b.Property<double?>("AuthorizationCode")
+                    b.Property<double>("Amount")
                         .HasColumnType("float");
+
+                    b.Property<string>("AuthorizationCode")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime?>("DateTime")
                         .HasColumnType("datetime2");
@@ -69,8 +69,8 @@ namespace JaizBank.Data.Migrations
                     b.Property<string>("RRN")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("ResponseCode")
-                        .HasColumnType("int");
+                    b.Property<string>("ResponseCode")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Stan")
                         .HasColumnType("nvarchar(max)");
@@ -88,15 +88,17 @@ namespace JaizBank.Data.Migrations
                             TransactionsId = 1,
                             AID = "A0000000041010",
                             Accelerex = "2.0.0-090921-LINT",
-                            Amount = 1m,
-                            AuthorizationCode = 0.0,
+                            Amount = 0.01,
+                            AuthorizationCode = "000000",
+                            DateTime = new DateTime(2022, 8, 30, 13, 45, 0, 0, DateTimeKind.Unspecified),
                             DebitCardNo = "539941******3369",
+                            ExpireDate = new DateTime(2022, 11, 24, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Location = "NO, 174 NTA/MBUORA RD, PORTHARCOURT",
                             MerchantName = "LIZPEE GLOBAL RESOURCES",
                             Offline = "CVM",
                             PTAD = "Global Accelerex",
                             RRN = "000210002450",
-                            ResponseCode = 91,
+                            ResponseCode = "91",
                             Stan = "003862",
                             TerminalId = "23011845"
                         });

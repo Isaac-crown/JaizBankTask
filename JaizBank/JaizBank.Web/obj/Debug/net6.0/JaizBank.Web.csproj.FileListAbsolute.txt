@@ -6,9 +6,11 @@ C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Web\bin\Debug\net6.0\Jai
 C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Web\bin\Debug\net6.0\JaizBank.Web.runtimeconfig.json
 C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Web\bin\Debug\net6.0\JaizBank.Web.dll
 C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Web\bin\Debug\net6.0\JaizBank.Web.pdb
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Web\bin\Debug\net6.0\Humanizer.dll
 C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
@@ -39,8 +41,12 @@ C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Web\bin\Debug\net6.0\run
 C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Web\bin\Debug\net6.0\JaizBank.Data.dll
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Web\bin\Debug\net6.0\JaizBank.DataAccesss.dll
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Web\bin\Debug\net6.0\JaizBank.DTOs.dll
 C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Web\bin\Debug\net6.0\JaizBank.Entities.dll
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Web\bin\Debug\net6.0\JaizBank.DataAccesss.pdb
 C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Web\bin\Debug\net6.0\JaizBank.Data.pdb
+C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Web\bin\Debug\net6.0\JaizBank.DTOs.pdb
 C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Web\bin\Debug\net6.0\JaizBank.Entities.pdb
 C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Web\obj\Debug\net6.0\JaizBank.Web.csproj.AssemblyReference.cache
 C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Web\obj\Debug\net6.0\JaizBank.Web.GeneratedMSBuildEditorConfig.editorconfig
@@ -61,5 +67,3 @@ C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Web\obj\Debug\net6.0\ref
 C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Web\obj\Debug\net6.0\JaizBank.Web.pdb
 C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Web\obj\Debug\net6.0\JaizBank.Web.genruntimeconfig.cache
 C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Web\obj\Debug\net6.0\ref\JaizBank.Web.dll
-C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Web\bin\Debug\net6.0\Humanizer.dll
-C:\Users\HP\source\repos\JaizBankTask\JaizBank\JaizBank.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
