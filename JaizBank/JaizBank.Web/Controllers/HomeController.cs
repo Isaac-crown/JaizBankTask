@@ -36,8 +36,7 @@ namespace JaizBank.Web.Controllers
                     DateTime = transaction.DateTime,
                     ExpireDate = transaction.ExpireDate,
                     Amount = transaction.Amount,
-
-                    
+                    ResponseCode = transaction.ResponseCode,
                     DebitCardNo = transaction.DebitCardNo,
                     AuthorizationCode = transaction.AuthorizationCode,
                     AID = transaction.AID,
